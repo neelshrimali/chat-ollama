@@ -4,7 +4,7 @@
 
 
 <h2 id="overview">Overview</h2>
-<p>The <strong>LLM Chat with Ollama</strong> project is a simple yet powerful console-based chat application that leverages the capabilities of Ollama's Language Learning Model (LLM). With over 5 years of experience in software development, this project is designed with best practices in mind, including clean code, modularity, and scalability.</p>
+<p>The <strong>LLM Chat with Ollama</strong> project is a simple yet powerful console-based chat application that leverages the capabilities of Ollama's Language Learning Model (LLM). </p>
 
 <h2 id="features">Features</h2>
 <ul>
